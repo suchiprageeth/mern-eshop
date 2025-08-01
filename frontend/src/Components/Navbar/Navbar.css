@@ -36,6 +36,10 @@
   cursor: pointer;
 }
 
+.link {
+  text-decoration: none;
+}
+
 .nav-menu hr {
   border: none;
   width: 80%;
